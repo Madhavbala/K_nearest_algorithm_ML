@@ -19,7 +19,7 @@ Usage:
 9 - The script will output the confusion matrix, which shows the performance of the model, and the accuracy of the model.
 
 Finally, the script will prompt for input values to predict the salary of a new employee. Enter the employee's name, age, education level, capital gain, and hours per week, 
-and the script will predict whether the salary will be above or below $50,000.
+and the script will predict whether the salary will be above or below 50,000.
 
 Conclusion
 The salary estimation model implemented in this code can be useful for predicting the salary level of employees based on their characteristics. 
