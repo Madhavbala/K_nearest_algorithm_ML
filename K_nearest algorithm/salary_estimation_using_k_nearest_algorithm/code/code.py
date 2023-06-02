@@ -16,7 +16,7 @@ print(dataset.head(5))
 
 income_set = set(dataset['income'])
 dataset['income'] = dataset['income'].map({'<=50K': 0, '>50K': 1}).astype(int)
-print(dataset.head)
+print(dataset.head(5)
 
 #Segregate Dataset into X(Input/IndependentVariable) & Y(Output/DependentVariable)
 
